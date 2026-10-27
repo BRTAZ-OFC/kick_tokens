@@ -1,0 +1,6 @@
+# Modelo de nomes. NAO coloque credenciais reais aqui.
+KICK_CLIENT_ID=
+KICK_CLIENT_SECRET=
+LIVENEXUS_API_KEY=
+WORKER_URL=https://kick-tokens.SEU-SUBDOMINIO.workers.dev
+LIVENEXUS_ORIGIN=https://SEU-LIVENEXUS
